@@ -1,0 +1,15 @@
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\bin\Debug\net6.0\ListaEnlasada.exe
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\bin\Debug\net6.0\ListaEnlasada.deps.json
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\bin\Debug\net6.0\ListaEnlasada.runtimeconfig.json
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\bin\Debug\net6.0\ListaEnlasada.dll
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\bin\Debug\net6.0\ListaEnlasada.pdb
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\obj\Debug\net6.0\ListaEnlasada.csproj.AssemblyReference.cache
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\obj\Debug\net6.0\ListaEnlasada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\obj\Debug\net6.0\ListaEnlasada.AssemblyInfoInputs.cache
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\obj\Debug\net6.0\ListaEnlasada.AssemblyInfo.cs
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\obj\Debug\net6.0\ListaEnlasada.csproj.CoreCompileInputs.cache
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\obj\Debug\net6.0\ListaEnlasada.dll
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\obj\Debug\net6.0\refint\ListaEnlasada.dll
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\obj\Debug\net6.0\ListaEnlasada.pdb
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\obj\Debug\net6.0\ListaEnlasada.genruntimeconfig.cache
+C:\Users\famagra\source\repos\ListaEnlasada\ListaEnlasada\obj\Debug\net6.0\ref\ListaEnlasada.dll
